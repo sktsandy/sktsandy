@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sktsandy&label=Profile%20views&color=0e75b6&style=flat" alt="sktsandy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sktsandy" alt="sktsandy" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js, MySql and Mongodb**
 
 - 📫 How to reach me **sandythakur1999@gmail.com**
