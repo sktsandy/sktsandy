@@ -62,6 +62,25 @@
 </div>
 
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="flex: 1 0 30%;">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+        </a>
+    </div>
+    <div style="flex: 1 0 30%;">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+        </a>
+    </div>
+    <div style="flex: 1 0 30%;">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        </a>
+    </div>
+    <!-- Repeat the above three divs for each row of icons -->
+</div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sktsandy&show_icons=true&locale=en&layout=compact" alt="sktsandy" /></p>
