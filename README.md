@@ -50,9 +50,25 @@
 
 <br/>  
 
+## 📂 Projects
+Here are some projects I’ve been working on recently:
+
+### React Cleaning Website
+An online store built with React, Redux, Node and Mysql. Features include authentication, Payment, Cleaning Service and real-time updates.
+
+🔗 [Live Demo](https://app.yfosclean.com/login) 
+
+### WordPress Custom Theme
+Developed a custom Wordpress theme tailored for a small business, improving UX and checkout experience.
+
+🔗 [Live Site](https://gyan.solutions/)
+
 ## Connect with me  
+Feel free to connect with me for collaborations, freelance projects, or tech discussions!
+
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-kumar-64b509216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+📧 sandythakur1999@gmail.com
+<a href="https://www.linkedin.com/in/sandeep-kumar-64b509216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/sktsandy" target="_blank">
