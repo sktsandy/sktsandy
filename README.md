@@ -53,10 +53,26 @@
 ## 📂 Projects
 Here are some projects I’ve been working on recently:
 
-### React Cleaning Website
-An online store built with React, Redux, Node and Mysql. Features include authentication, Payment, Cleaning Service and real-time updates.
+### React:- Cleaning Website
+An online Cleaning App with React, Redux, Node and Mysql. Features include authentication, Payment, Cleaning Service and real-time updates.
 
-🔗 [Live Demo](https://app.yfosclean.com/login) 
+🔗 [Cleaning Website](https://app.yfosclean.com/login) 
+
+### Masonic passport
+In this project, we developed Masonic Passport, a platform that connects members of the Masonic community. Users can join the network, connect with other members, and communicate through chat in real-time. The platform also provides event information, allowing users to stay updated on meetings, gatherings, and important announcements. Built to enhance networking and collaboration, Masonic Passport fosters a strong sense of community and engagement.
+
+🔗 [Masonic Passport](https://www.masonic-passport.com/) 
+
+
+### Food Classifieds
+We developed Food Classifieds, a platform where users can post and sell food-related items, similar to OLX. Users can easily create listings, add descriptions, upload images, and set prices for their products. The platform provides a simple interface for buyers and sellers to connect, browse items, and complete transactions efficiently.
+
+🔗 [Food Classifieds](https://foodclassifieds.com/) 
+
+
+### PRO NFT
+We developed PRO NFT, a blockchain-based platform where users can create, buy, and sell NFT tokens securely. The platform allows users to mint unique digital assets, list them for sale, and trade within a decentralized environment. Built with a focus on transparency and trust, PRO NFT offers a seamless experience for creators and collectors in the growing NFT ecosystem.
+
 
 ### WordPress Custom Theme
 Developed a custom Wordpress theme tailored for a small business, improving UX and checkout experience.
@@ -65,9 +81,9 @@ Developed a custom Wordpress theme tailored for a small business, improving UX a
 
 ## Connect with me  
 Feel free to connect with me for collaborations, freelance projects, or tech discussions!
-
-<div align="center">
 📧 sandythakur1999@gmail.com
+<br/>
+<div align="center">
 <a href="https://www.linkedin.com/in/sandeep-kumar-64b509216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
